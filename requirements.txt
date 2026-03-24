@@ -3,3 +3,4 @@ opencv-python
 face-recognition
 numpy
 pandas
+streamlit-webrtc
